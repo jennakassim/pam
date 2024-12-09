@@ -1,4 +1,4 @@
-module github.com/tknie/pam
+module github.com/jennakassim/pam
 
 go 1.17
 
